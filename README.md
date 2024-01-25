@@ -1,2 +1,2 @@
 # Text-Classification
-cc
+- Classification possitive or nagative of Sentences
