@@ -1,2 +1,2 @@
 # Text-Classification
-- Classification possitive or nagative of Sentences
+Text Classification using Neural Network (Torchtext) - Classification possitive or nagative of Sentences
